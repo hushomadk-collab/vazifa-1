@@ -1,0 +1,44 @@
+
+
+.ter{
+    display: flex;
+    justify-content: center;
+    gap: 124px;
+}
+
+.ter h2{
+    font-size: 42px;
+}
+
+.ota{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    height: 1000px;
+}
+
+.rew{
+    background-color: red;
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    font-size: 60px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+
+
+}
+
+.title{
+    text-align: center;
+    font-size: 64px;
+    margin-top: 135px;
+    
+}
+
+
+
+
